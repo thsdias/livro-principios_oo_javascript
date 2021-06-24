@@ -16,3 +16,4 @@ No livro Nicholas C. Zakas explora minuciosamente a natureza orientada a objetos
 
 
 ■ **Capítulo 1 - Tipos primitivos e de referência**
+■ **Capítulo 2 - Funções**
